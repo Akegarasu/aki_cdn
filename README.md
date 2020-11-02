@@ -1,0 +1,2 @@
+# aki_cdn
+jsdeliver
